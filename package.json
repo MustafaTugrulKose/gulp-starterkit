@@ -1,0 +1,49 @@
+{
+  "name": "gulp-boilerplate",
+  "version": "1.0.0",
+  "description": "Gulp Frontend Starter Kit",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emrullahayin/gulp-boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "staterkit",
+    "frontend",
+    "gulp",
+    "javascript",
+    "svg",
+    "css"
+  ],
+  "author": "Tuğrul Köse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MustafaTugrulKose/gulp-starterkit"
+  },
+  "homepage": "https://github.com/MustafaTugrulKose/gulp-starterkit",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-cache": "^1.1.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-iconfont": "^10.0.3",
+    "gulp-iconfont-css": "^3.0.0",
+    "gulp-imagemin": "^6.1.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "node-sass": "^4.12.0"
+  },
+  "dependencies": {
+    "del": "^5.1.0",
+    "gulp-babel": "^8.0.0",
+    "panini": "^1.6.3"
+  }
+}
